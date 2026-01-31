@@ -4,6 +4,8 @@ Projeto desenvolvido para a disciplina de **Inteligência de Negócios**, com o 
 
 Os dados foram **tratados e organizados no Power BI** e utilizados no **KNIME** para aplicação do algoritmo de forecast.
 
+![Status](https://img.shields.io/badge/Status-Finalizado-success?style=for-the-badge)
+
 ---
 
 ## 🎯 Objetivo
@@ -17,20 +19,20 @@ Os dados foram **tratados e organizados no Power BI** e utilizados no **KNIME** 
 
 ## 🛠 Tecnologias Utilizadas
 
-**Front-end**
-- HTML  
-- CSS  
-- Bootstrap  
-- JavaScript
-- Thymelife
+### 🎨 Front-end
+![HTML](https://img.shields.io/badge/HTML5-Front--end-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-Style-blue?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?style=for-the-badge&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-Template%20Engine-green?style=for-the-badge&logo=thymeleaf)
 
-**Back-end**
-- Java  
-- Spring Boot  
+### ⚙️ Back-end
+![Java](https://img.shields.io/badge/Java-17+-red?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=for-the-badge&logo=springboot)
 
-**BI / Dados**
-- Power BI (tratamento dos dados)  
-- KNIME (forecast)
+### 📊 BI / Dados
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Treatment-yellow?style=for-the-badge&logo=powerbi)
+![KNIME](https://img.shields.io/badge/KNIME-Forecast-blue?style=for-the-badge&logo=knime)
 
 ---
 
